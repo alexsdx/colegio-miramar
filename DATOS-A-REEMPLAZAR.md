@@ -19,7 +19,7 @@ cualquier editor de texto y se abre con doble clic sobre `index.html`.
 | Ciclo escolar 2026–2027 | Barra superior, `avisos.html`, `admisiones.html` |
 | Turno matutino, 7:30 – 14:00 h | Barra superior, pie, `oferta-educativa.html` |
 | Fundación en 1998, 28 años | `index.html` y `nosotros.html` |
-| `https://www.colegiomiramar.edu.mx/` | `<link rel="canonical">` y `og:url` de cada página |
+| `https://alexsdx.github.io/colegio-miramar/` | `<link rel="canonical">`, `og:url`, `og:image` y JSON-LD de cada página. Hoy apuntan a la URL de GitHub Pages, no a un dominio de la escuela |
 
 Búsqueda rápida para encontrarlo todo:
 
@@ -111,4 +111,5 @@ ningún documento.
 - [ ] Publicar el aviso de privacidad y enlazarlo
 - [ ] Revisar los `og:image` — apuntan a `img/heroe.svg`; para que se vea bien al
       compartir en redes conviene un PNG o JPG de 1200 × 630 px
-- [ ] Verificar que el dominio del `<link rel="canonical">` sea el real
+- [ ] Cambiar `canonical`, `og:url`, `og:image` y JSON-LD de la URL de GitHub Pages
+      al dominio real de la escuela

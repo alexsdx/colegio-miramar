@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Salón de clases con pizarrón y pupitres">
+  <title>Salón de clases con pizarrón y pupitres</title>
+  <rect width="400" height="300" fill="#F7F1E4"/>
+  <rect x="52" y="40" width="180" height="106" rx="6" fill="#0E4C5A"/>
+  <path d="M74 118h58M74 100h116M74 82h92" stroke="#FFFCF5" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+  <path d="M268 46a40 40 0 0 1 80 0v78h-80Z" fill="#1D8296"/>
+  <path d="M308 46v78M268 88h80" stroke="#F7F1E4" stroke-width="5"/>
+  <rect y="238" width="400" height="62" fill="#FFFCF5"/>
+  <rect x="96" y="184" width="26" height="54" rx="13" fill="#BB4019"/>
+  <circle cx="109" cy="170" r="11" fill="#BB4019"/>
+  <rect x="168" y="178" width="26" height="60" rx="13" fill="#F0B255"/>
+  <circle cx="181" cy="164" r="11" fill="#F0B255"/>
+  <rect x="240" y="186" width="26" height="52" rx="13" fill="#186F80"/>
+  <circle cx="253" cy="172" r="11" fill="#186F80"/>
+  <rect x="60" y="212" width="104" height="12" rx="6" fill="#092F38"/>
+  <rect x="212" y="212" width="104" height="12" rx="6" fill="#092F38"/>
+</svg>

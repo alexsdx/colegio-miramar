@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Galería · Colegio Miramar</title>
+<meta name="description" content="Instalaciones y actividades del Colegio Miramar: salones, biblioteca, taller de robótica, cancha y vida escolar.">
+<link rel="canonical" href="https://alexsdx.github.io/colegio-miramar/galeria.html">
+<meta name="theme-color" content="#0E4C5A">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_MX">
+<meta property="og:site_name" content="Colegio Miramar">
+<meta property="og:title" content="Galería · Colegio Miramar">
+<meta property="og:description" content="Instalaciones y actividades del Colegio Miramar: salones, biblioteca, taller de robótica, cancha y vida escolar.">
+<meta property="og:url" content="https://alexsdx.github.io/colegio-miramar/galeria.html">
+<meta property="og:image" content="https://alexsdx.github.io/colegio-miramar/img/heroe.svg">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=Karla:ital,wght@0,400..800;1,400..700&display=swap">
+<link rel="stylesheet" href="css/estilos.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://alexsdx.github.io/colegio-miramar/" },
+    { "@type": "ListItem", "position": 2, "name": "Galería", "item": "https://alexsdx.github.io/colegio-miramar/galeria.html" }
+  ]
+}
+</script>
+<noscript><style>.nav{display:block!important}.nav-alterna{display:none}</style></noscript>
+</head>
+<body>
+
+<a class="saltar" href="#contenido">Saltar al contenido principal</a>
+
+<div class="barra-superior">
+  <div class="contenedor">
+    <span>Ciclo escolar 2026–2027 · Turno matutino · CCT 28PPR0123L</span>
+    <span>Tel. <a href="tel:+528330000000">(833) 000-0000</a> · <a href="mailto:contacto@colegiomiramar.edu.mx">contacto@colegiomiramar.edu.mx</a></span>
+  </div>
+</div>
+
+<header class="encabezado">
+  <div class="contenedor">
+    <a class="marca" href="index.html">
+      <img class="marca__escudo" src="img/logo.svg" alt="" width="48" height="48">
+      <span class="marca__texto">
+        <span class="marca__nombre">Colegio Miramar</span>
+        <span class="marca__bajada">Primaria · Tampico</span>
+      </span>
+    </a>
+
+    <button class="nav-alterna" type="button" aria-expanded="false" aria-controls="menu-principal">
+      <span class="nav-alterna__barras" aria-hidden="true"><span></span><span></span><span></span></span>
+      Menú
+    </button>
+
+    <nav class="nav" id="menu-principal" aria-label="Navegación principal" hidden>
+      <div class="contenedor">
+        <ul class="nav__lista">
+          <li><a class="nav__enlace" href="index.html">Inicio</a></li>
+          <li><a class="nav__enlace" href="nosotros.html">Nosotros</a></li>
+          <li><a class="nav__enlace" href="oferta-educativa.html">Oferta educativa</a></li>
+          <li><a class="nav__enlace" href="admisiones.html">Admisiones</a></li>
+          <li><a class="nav__enlace" href="avisos.html">Avisos</a></li>
+          <li><a class="nav__enlace" href="galeria.html" aria-current="page">Galería</a></li>
+          <li><a class="nav__enlace" href="contacto.html">Contacto</a></li>
+        </ul>
+        <a class="boton boton--primario" href="admisiones.html#preinscripcion">Pre-inscríbete</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="contenido">
+
+  <!-- ================================================= PORTADA ========== -->
+  <section class="portada-interior">
+    <div class="contenedor">
+      <ol class="miga">
+        <li><a href="index.html">Inicio</a></li>
+        <li aria-current="page">Galería</li>
+      </ol>
+      <p class="antetitulo antetitulo--claro">Actividades e instalaciones</p>
+      <h1>Así se ve un día en el Miramar</h1>
+      <p>
+        Los espacios donde trabajan los niños y las actividades que llenan el ciclo.
+        Toca cualquier imagen para verla en grande.
+      </p>
+    </div>
+  </section>
+
+  <!-- ================================================= GALERÍA ========== -->
+  <section class="seccion">
+    <div class="contenedor">
+      <div class="filtros revelar" data-filtros="lista-galeria" data-conteo="conteo-galeria"
+           role="group" aria-label="Filtrar la galería por tema">
+        <button class="filtro" type="button" data-categoria="todas" aria-pressed="true">Todo</button>
+        <button class="filtro" type="button" data-categoria="instalaciones" aria-pressed="false">Instalaciones</button>
+        <button class="filtro" type="button" data-categoria="academico" aria-pressed="false">Vida académica</button>
+        <button class="filtro" type="button" data-categoria="eventos" aria-pressed="false">Eventos y deporte</button>
+      </div>
+
+      <p class="solo-lectores" id="conteo-galeria" role="status" aria-live="polite"></p>
+
+      <div class="galeria" id="lista-galeria">
+        <figure class="galeria__pieza" data-categoria="instalaciones">
+          <button class="galeria__boton" type="button"
+                  data-titulo="La fachada de Av. Hidalgo"
+                  data-texto="El edificio que ocupamos desde 2006, con los portales de arco que inspiraron el escudo del colegio.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-fachada.svg" alt="Ilustración de la fachada del colegio con portales de arco." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>La fachada de Av. Hidalgo</strong>
+              Instalaciones
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="academico">
+          <button class="galeria__boton" type="button"
+                  data-titulo="Salones de clase"
+                  data-texto="Seis aulas con ventilación cruzada y clima, para grupos de máximo 24 alumnos. Un maestro titular por grupo, todo el ciclo.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-salon.svg" alt="Ilustración de un salón con pizarrón, ventana en arco y pupitres." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>Salones de clase</strong>
+              Vida académica
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="instalaciones">
+          <button class="galeria__boton" type="button"
+                  data-titulo="Biblioteca y sala de lectura"
+                  data-texto="Más de 3,000 títulos en el segundo piso. Media hora diaria de lectura en silencio y préstamo de libros a casa desde primero.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-biblioteca.svg" alt="Ilustración del rincón de lectura con libreros." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>Biblioteca y sala de lectura</strong>
+              Instalaciones
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="academico">
+          <button class="galeria__boton" type="button"
+                  data-titulo="Taller de robótica y ciencias"
+                  data-texto="Doce estaciones de trabajo. De cuarto a sexto, dos horas semanales, con un proyecto por bimestre que se expone ante el grupo.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-robotica.svg" alt="Ilustración del taller de robótica con un robot y estaciones de trabajo." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>Taller de robótica y ciencias</strong>
+              Vida académica
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="academico">
+          <button class="galeria__boton" type="button"
+                  data-titulo="Clase de inglés"
+                  data-texto="Una hora diaria con maestros especializados. Los grupos se arman por nivel alcanzado, no por grado, y se revisan cada semestre.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-ingles.svg" alt="Ilustración de la clase de inglés." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>Clase de inglés</strong>
+              Vida académica
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="instalaciones">
+          <button class="galeria__boton" type="button"
+                  data-titulo="Salón de arte y música"
+                  data-texto="Dibujo, pintura y percusiones. De aquí salen las dos muestras del año: la de invierno y la del festival de fin de ciclo.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-arte.svg" alt="Ilustración del salón de arte y música." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>Salón de arte y música</strong>
+              Instalaciones
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="eventos">
+          <button class="galeria__boton" type="button"
+                  data-titulo="Cancha de usos múltiples"
+                  data-texto="Techada, así que se juega aunque llueva. Tres sesiones de educación física por semana y el torneo interno del segundo periodo.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-deportes.svg" alt="Ilustración de la cancha de usos múltiples del colegio." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>Cancha de usos múltiples</strong>
+              Eventos y deporte
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="eventos">
+          <button class="galeria__boton" type="button"
+                  data-titulo="El recreo"
+                  data-texto="Media hora, de 10:15 a 10:45. Hay maestros de guardia en el patio y una regla que se aplica en serio: nadie se queda fuera del juego.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-recreo.svg" alt="Ilustración de niñas y niños jugando en el patio de recreo." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>El recreo</strong>
+              Eventos y deporte
+            </span>
+          </button>
+        </figure>
+
+        <figure class="galeria__pieza" data-categoria="eventos">
+          <button class="galeria__boton" type="button"
+                  data-titulo="Honores a la bandera"
+                  data-texto="Cada lunes a las 7:45 h. La escolta se renueva por semestre y la integran alumnos de quinto y sexto por promedio y conducta.">
+            <span class="galeria__lienzo">
+              <img src="img/escena-civica.svg" alt="Ilustración de la ceremonia de honores a la bandera." width="400" height="300">
+            </span>
+            <span class="galeria__pie">
+              <strong>Honores a la bandera</strong>
+              Eventos y deporte
+            </span>
+          </button>
+        </figure>
+      </div>
+
+      <p class="nota-maqueta mt-6">
+        Las nueve piezas son ilustraciones de relleno, no fotografías del colegio.
+        Sustitúyelas por fotos reales de 4:3 (mínimo 1200 × 900 px) siguiendo
+        img/README.md, y recuerda recabar la autorización de las familias antes de
+        publicar imágenes de menores.
+      </p>
+    </div>
+  </section>
+
+  <!-- ================================================= LLAMADA ========== -->
+  <section class="seccion">
+    <div class="contenedor">
+      <div class="llamada revelar">
+        <h2>Una foto no sustituye una visita</h2>
+        <p>
+          Ven a ver la escuela en horario de clases, con los niños dentro. Es la
+          única forma honesta de conocer una primaria.
+        </p>
+        <div class="grupo-botones">
+          <a class="boton boton--claro" href="contacto.html">Agendar una visita</a>
+          <a class="boton boton--contorno-claro" href="nosotros.html">Conocer al equipo</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================================================= VISOR ============ -->
+  <div class="visor" id="visor" role="dialog" aria-modal="true" aria-labelledby="visor-titulo" hidden>
+    <div class="visor__caja">
+      <button class="visor__cerrar" type="button" aria-label="Cerrar la imagen">&times;</button>
+      <div class="visor__lienzo"></div>
+      <div class="visor__pie">
+        <h3 class="visor__titulo" id="visor-titulo"></h3>
+        <p class="visor__texto"></p>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="pie">
+  <div class="contenedor">
+    <div class="pie__rejilla">
+      <div>
+        <div class="pie__marca">
+          <img class="marca__escudo" src="img/logo.svg" alt="" width="48" height="48">
+          <span class="marca__texto">
+            <span class="marca__nombre">Colegio Miramar</span>
+            <span class="marca__bajada">Primaria · Tampico</span>
+          </span>
+        </div>
+        <p>
+          Escuela primaria particular incorporada a la Secretaría de Educación Pública.<br>
+          CCT 28PPR0123L · Turno matutino.
+        </p>
+      </div>
+
+      <nav aria-label="Secciones del sitio">
+        <h3>El colegio</h3>
+        <ul>
+          <li><a href="nosotros.html">Nosotros</a></li>
+          <li><a href="oferta-educativa.html">Oferta educativa</a></li>
+          <li><a href="galeria.html">Galería</a></li>
+          <li><a href="avisos.html">Avisos y calendario</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Trámites">
+        <h3>Familias</h3>
+        <ul>
+          <li><a href="admisiones.html">Admisiones</a></li>
+          <li><a href="admisiones.html#costos">Costos y becas</a></li>
+          <li><a href="admisiones.html#preinscripcion">Pre-registro</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </nav>
+
+      <div>
+        <h3>Dónde estamos</h3>
+        <address style="font-style: normal">
+          <ul>
+            <li>Av. Hidalgo 1204, Col. Smith<br>C.P. 89140, Tampico, Tamaulipas</li>
+            <li><a href="tel:+528330000000">(833) 000-0000</a></li>
+            <li><a href="mailto:contacto@colegiomiramar.edu.mx">contacto@colegiomiramar.edu.mx</a></li>
+            <li>Lunes a viernes, 7:30 – 14:00 h</li>
+          </ul>
+        </address>
+      </div>
+    </div>
+
+    <div class="pie__legal">
+      <p>© <span data-anio>2026</span> Colegio Miramar. Todos los derechos reservados.</p>
+      <p>Sitio de demostración con datos ficticios · Tampico, Tamaulipas, México</p>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

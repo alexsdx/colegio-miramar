@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800" role="img" aria-label="Ilustración de la fachada del Colegio Miramar con una garza">
+  <title>Ilustración de la fachada del Colegio Miramar con una garza</title>
+  <rect width="600" height="800" fill="#186F80"/>
+  <circle cx="430" cy="170" r="104" fill="#F0B255"/>
+  <path d="M60 250a240 240 0 0 1 480 0v470a20 20 0 0 1-20 20H80a20 20 0 0 1-20-20Z" fill="#FFFCF5"/>
+  <path d="M96 740V576a56 56 0 0 1 112 0v164Z" fill="#0E4C5A"/>
+  <path d="M244 740V576a56 56 0 0 1 112 0v164Z" fill="#0E4C5A"/>
+  <path d="M392 740V576a56 56 0 0 1 112 0v164Z" fill="#0E4C5A"/>
+  <path d="M152 740v-92h56v92ZM300 740v-92h56v92ZM448 740v-92h56v92Z" fill="#F0B255" opacity=".55"/>
+  <path d="M120 470a180 180 0 0 1 360 0Z" fill="#1D8296" opacity=".18"/>
+  <path d="M232 452c22-88 50-136 84-136 26 0 34 26 52 26 13 0 20-10 20-23l30 16-34 22c-4 60-26 100-66 100Z" fill="#0E4C5A"/>
+  <path d="M300 372l-50-36 56 6Z" fill="#BB4019"/>
+  <circle cx="352" cy="336" r="6" fill="#FFFCF5"/>
+  <path d="M0 690c50 0 50 26 100 26s50-26 100-26 50 26 100 26 50-26 100-26 50 26 100 26 50-26 100-26v110H0Z" fill="#1D8296" opacity=".6"/>
+  <path d="M0 730c50 0 50 26 100 26s50-26 100-26 50 26 100 26 50-26 100-26 50 26 100 26 50-26 100-26v70H0Z" fill="#0E4C5A"/>
+</svg>

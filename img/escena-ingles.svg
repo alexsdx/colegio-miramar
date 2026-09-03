@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Clase de inglés">
+  <title>Clase de inglés</title>
+  <rect width="400" height="300" fill="#1D8296"/>
+  <circle cx="200" cy="142" r="86" fill="#FFFCF5"/>
+  <path d="M200 56v172M114 142h172" stroke="#186F80" stroke-width="4" opacity=".5"/>
+  <ellipse cx="200" cy="142" rx="44" ry="86" fill="none" stroke="#186F80" stroke-width="4" opacity=".5"/>
+  <path d="M136 104c26 10 60 12 86 2s44-4 52 6M124 176c30-12 66-8 92 2s48 2 62-8" stroke="#2F6B4F" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <rect y="238" width="400" height="62" fill="#F7F1E4"/>
+  <rect x="52" y="178" width="26" height="60" rx="13" fill="#F0B255"/>
+  <circle cx="65" cy="164" r="11" fill="#F0B255"/>
+  <rect x="322" y="172" width="26" height="66" rx="13" fill="#BB4019"/>
+  <circle cx="335" cy="158" r="11" fill="#BB4019"/>
+</svg>

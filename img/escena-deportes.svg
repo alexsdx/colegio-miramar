@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Cancha de deportes del colegio">
+  <title>Cancha de deportes del colegio</title>
+  <rect width="400" height="300" fill="#2F6B4F"/>
+  <rect x="30" y="46" width="340" height="208" rx="10" fill="none" stroke="#FFFCF5" stroke-width="4" opacity=".75"/>
+  <circle cx="200" cy="150" r="46" fill="none" stroke="#FFFCF5" stroke-width="4" opacity=".75"/>
+  <path d="M200 46v208" stroke="#FFFCF5" stroke-width="4" opacity=".75"/>
+  <circle cx="200" cy="150" r="22" fill="#FFFCF5"/>
+  <path d="M200 128v44M178 150h44" stroke="#092F38" stroke-width="4"/>
+  <rect x="74" y="172" width="26" height="66" rx="13" fill="#F0B255"/>
+  <circle cx="87" cy="158" r="11" fill="#F0B255"/>
+  <rect x="300" y="166" width="26" height="72" rx="13" fill="#E8703F"/>
+  <circle cx="313" cy="152" r="11" fill="#E8703F"/>
+</svg>

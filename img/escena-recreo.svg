@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Niñas y niños jugando en el patio de recreo">
+  <title>Niñas y niños jugando en el patio de recreo</title>
+  <rect width="400" height="300" fill="#1D8296"/>
+  <circle cx="332" cy="60" r="34" fill="#F0B255" opacity=".85"/>
+  <rect y="238" width="400" height="62" fill="#F7F1E4"/>
+  <path d="M0 238c40-26 84-38 132-38s92 12 132 38Z" fill="#FFFCF5" opacity=".35"/>
+  <rect x="64" y="176" width="26" height="62" rx="13" fill="#BB4019"/>
+  <circle cx="77" cy="162" r="11" fill="#BB4019"/>
+  <rect x="120" y="164" width="26" height="74" rx="13" fill="#FFFCF5"/>
+  <circle cx="133" cy="150" r="11" fill="#FFFCF5"/>
+  <rect x="186" y="180" width="26" height="58" rx="13" fill="#F0B255"/>
+  <circle cx="199" cy="166" r="11" fill="#F0B255"/>
+  <rect x="244" y="168" width="26" height="70" rx="13" fill="#E8703F"/>
+  <circle cx="257" cy="154" r="11" fill="#E8703F"/>
+  <rect x="300" y="174" width="26" height="64" rx="13" fill="#FFFCF5"/>
+  <circle cx="313" cy="160" r="11" fill="#FFFCF5"/>
+  <circle cx="160" cy="196" r="13" fill="#FFFCF5" stroke="#092F38" stroke-width="3"/>
+</svg>

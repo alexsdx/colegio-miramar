@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Taller de arte y música">
+  <title>Taller de arte y música</title>
+  <rect width="400" height="300" fill="#F7F1E4"/>
+  <path d="M120 60a70 70 0 1 1 0 140c-16 0-12-16-24-22-14-6-46 4-46-48A70 70 0 0 1 120 60Z" fill="#FFFCF5"/>
+  <circle cx="96" cy="96" r="11" fill="#BB4019"/>
+  <circle cx="136" cy="88" r="11" fill="#F0B255"/>
+  <circle cx="162" cy="118" r="11" fill="#1D8296"/>
+  <circle cx="150" cy="156" r="11" fill="#2F6B4F"/>
+  <circle cx="104" cy="164" r="11" fill="#E8703F"/>
+  <path d="M250 68v96a22 22 0 1 1-14-20V92l72-16v88a22 22 0 1 1-14-20V56Z" fill="#0E4C5A"/>
+  <rect y="238" width="400" height="62" fill="#FFFCF5"/>
+</svg>

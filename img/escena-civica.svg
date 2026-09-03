@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Ceremonia de honores a la bandera">
+  <title>Ceremonia de honores a la bandera</title>
+  <rect width="400" height="300" fill="#186F80"/>
+  <circle cx="332" cy="60" r="34" fill="#F0B255" opacity=".85"/>
+  <rect y="238" width="400" height="62" fill="#F7F1E4"/>
+  <rect x="196" y="66" width="6" height="172" rx="3" fill="#092F38"/>
+  <path d="M202 70h84v52h-84Z" fill="#FFFCF5"/>
+  <path d="M202 70h28v52h-28Z" fill="#2F6B4F"/>
+  <path d="M258 70h28v52h-28Z" fill="#BB4019"/>
+  <rect x="60" y="170" width="26" height="68" rx="13" fill="#FFFCF5"/>
+  <circle cx="73" cy="156" r="11" fill="#FFFCF5"/>
+  <rect x="110" y="162" width="26" height="76" rx="13" fill="#F0B255"/>
+  <circle cx="123" cy="148" r="11" fill="#F0B255"/>
+  <rect x="286" y="168" width="26" height="70" rx="13" fill="#FFFCF5"/>
+  <circle cx="299" cy="154" r="11" fill="#FFFCF5"/>
+  <rect x="334" y="176" width="26" height="62" rx="13" fill="#E8703F"/>
+  <circle cx="347" cy="162" r="11" fill="#E8703F"/>
+</svg>
